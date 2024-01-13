@@ -1,4 +1,3 @@
-[![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 <h1 align="center">Merhaba 👋, ben Ali Zafer</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
