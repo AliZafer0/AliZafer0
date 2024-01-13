@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatCoffeeCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Tekno.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
