@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg](https://i.hizliresim.com/fcy50x5.jpg))
+![MasterHead](https://i.hizliresim.com/fcy50x5.jpg))
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/AliZafer0">
