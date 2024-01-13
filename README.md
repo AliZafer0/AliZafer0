@@ -1,3 +1,4 @@
+[![MasterHead](https://hizliresim.com/iq3b63c)
 <h1 align="center">Hi 👋, I'm Ali Zafer</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
