@@ -10,9 +10,21 @@ Merhaba, ben **Ali Zafer**. Yazılım geliştirme yolculuğumu hayatın detaylar
 
 ## 🌐 İletişim
 
-[LinkedIn](https://www.linkedin.com/in/AliZafer) •  
-[Instagram](https://instagram.com/AliZafer72) •  
-[Twitter](https://twitter.com/AliZaferexe)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/AliZafer" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="28" height="28" />  
+    <sub><b>LinkedIn</b></sub>
+  </a>
+
+  <a href="https://instagram.com/AliZafer72" target="_blank" rel="noopener noreferrer" style="text-decoration:none; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="28" height="28" />  
+    <sub><b>Instagram</b></sub>
+  </a>
+
+  <a href="mailto:alizafer@exeteam.net" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    📧 <sub><b>alizafer@exeteam.net</b></sub>
+  </a>
+</p>
 
 ---
 
