@@ -1,49 +1,65 @@
-## Hakkımda
+<!-- Profil başlığı -->
+<h1 align="center">Ali Zafer</h1>
+<p align="center">
+  <i>“Tek satır bir niyet, her proje bir izdir.”</i>
+</p>
 
-Merhaba, ben **Ali Zafer**. Yazılım geliştirme yolculuğumu hayatın detaylarını keşfetmek ve dijital dünyaya anlam katmak için bir araç olarak görüyorum. Web teknolojilerinden masaüstü uygulamalara, grafik tasarımdan dijital video işçiliğine kadar geniş bir yelpazede projeler geliştirdim. Öğrenmeyi seven, sorunları çözmekten keyif alan ve üretmeye tutkuyla bağlı bir geliştiriciyim.
+---
 
-- 🔭 Şu anda **ExeTeam** çatısı altında projeler geliştiriyorum.
-- 💼 Uzmanlık alanım: Web teknolojileri, kullanıcı arayüzü geliştirme, grafik ve medya üretimi.
-- 📫 Bana ulaşmak için: **alizafer@exeteam.net**
+## 👋 Hakkımda
+Ben **Ali Zafer** — full-stack geliştirici, sistem tasarımcısı ve estetik odaklı bir üreticiyim.  
+Yazılımı yalnızca kod değil, düzen kurma ve anlam katma aracı olarak görüyorum.  
+
+- 🚀 **ExeTeam** & **Exeverse** çatısı altında projeler geliştiriyorum.  
+- 🏗️ Uzmanlık alanlarım: **PHP, JavaScript, Tailwind, Leaflet/Turf.js, MariaDB**  
+- 🎨 İlgi alanlarım: kullanıcı deneyimi, minimal tasarım, dijital marka inşası.  
+
+---
+
+## 🛠️ Teknolojiler & Araçlar
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
+  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white">
+  <img alt="Turf.js" src="https://img.shields.io/badge/Turf.js-3C873A?logo=node.js&logoColor=white">
+  <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
+
+---
+
+## 📌 Öne Çıkan Projeler
+- **ExeTeam** → Yazılım & dijital çözümler.  
+- **Exeverse** → Modüler proje evreni.  
+- **ExeGeo** → Leaflet/Turf.js ile bölge & zon haritalama.  
+- **Bridge Global Trade** → Çok dilli kurumsal yapı.  
+- **Varhan Development** → Ticaret & danışmanlık ekosistemi.  
+
+---
+
+## 📊 GitHub İstatistikleri
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AliZafer0&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AliZafer0&theme=transparent" />
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafer0&layout=compact&theme=transparent" />
+</p>
 
 ---
 
 ## 🌐 İletişim
-
-[LinkedIn](https://www.linkedin.com/in/AliZafer) •  
-[Instagram](https://instagram.com/AliZafer72) •  
-[Twitter](https://twitter.com/AliZaferexe)  
-
----
-
-## 🛠️ Kullandığım Teknolojiler
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- 🌍 Website: [alizafer.tr](https://alizafer.tr)  
+- 💼 LinkedIn: [AliZafer](https://linkedin.com/in/AliZafer)  
+- 🐦 Twitter/X: [@AliZaferexe](https://twitter.com/AliZaferexe)  
+- 📧 Mail: **iletisim@alizafer.tr**
 
 ---
 
-## 📈 GitHub İstatistikleri
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliZafer0&theme=material-palenight&show_icons=true" />
+  <sub>Karanlığa değil, sisteme güven.</sub>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliZafer0&theme=material-palenight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafer0&layout=compact&theme=material-palenight" />
-</p>
-
----
-
-> “Her satır bir niyet, her proje bir izdir.”
