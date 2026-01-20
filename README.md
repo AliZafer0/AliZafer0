@@ -33,12 +33,49 @@ Yazılımı yalnızca kod değil, düzen kurma ve anlam katma aracı olarak gör
 ---
 
 ## 📌 Öne Çıkan Projeler
-- **ExeTeam** → Yazılım & dijital çözümler.  
-- **Exeverse** → Modüler proje evreni.  
-- **ExeGeo** → Leaflet/Turf.js ile bölge & zon haritalama.  
-- **Bridge Global Trade** → Çok dilli kurumsal yapı.  
-- **Varhan Development** → Ticaret & danışmanlık ekosistemi.  
 
+### 🌍 Canlı / İncelenebilir
+
+**Varhan Agro**  
+Premium tarım tedarik & ihracat platformu  
+🔗 https://varhanagro.com
+
+**Bridge Global Trade**  
+Çok dilli kurumsal ticaret ve danışmanlık yapısı  
+🔗 https://bridgeglobaltrade.com.tr
+
+**Varhan Development**  
+Ticaret, danışmanlık ve dijital ekosistem merkezi  
+🔗 https://varhandev.com.tr
+
+**AliZafer.dev / alizafer.tr**  
+Kişisel portföy, teknik dokümantasyon ve sistem notları  
+🔗 https://alizafer.tr
+
+---
+
+### 🧠 Aktif Geliştirme / Yaklaşan
+
+**ExeTeam**  
+Yazılım & dijital çözümler için çekirdek ekip yapısı  
+_Altyapı, mimari ve ürün geliştirme odaklı._
+
+**Exeverse**  
+Modüler proje evreni yaklaşımı  
+_Birbirine bağlanan sistemler, tek mimari dil._
+
+**ExeGeo**  
+Leaflet & Turf.js tabanlı bölge / zon haritalama altyapısı  
+_Coğrafya, veriyle anlam kazanır._
+
+**Varhan Core**  
+Şirket içi CRM, API ve operasyonel dijital ekosistem  
+_Güvenlik, çok-dillilik ve ölçeklenebilir mimari._
+
+---
+
+> _Bu listede yer alan projeler;  
+> ya canlıdır, ya da canlı olmaya hazırlanıyordur._
 ---
 
 ## 📊 GitHub İstatistikleri
