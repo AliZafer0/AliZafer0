@@ -54,9 +54,9 @@ Yazılımı yalnızca kod değil, düzen kurma ve anlam katma aracı olarak gör
 
 ## 🌐 İletişim
 - 🌍 Website: [alizafer.tr](https://alizafer.tr)  
-- 💼 LinkedIn: [AliZafer](https://linkedin.com/in/AliZafer)  
+- 💼 LinkedIn: [AliZafer](https://linkedin.com/in/AliZafer0)  
 - 🐦 Twitter/X: [@AliZaferexe](https://twitter.com/AliZaferexe)  
-- 📧 Mail: **iletisim@alizafer.tr**
+- 📧 Mail: **me@alizafer.tr**
 
 ---
 
